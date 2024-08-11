@@ -62,7 +62,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/joao-victor-walcacer-giani" target="_blank">
+  <a href="https://www.linkedin.com/in/joao-victor-walcacer-giani" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:seuemail@gmail.com" target="_blank">
@@ -74,7 +74,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/Jvictor_wg">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Jvictor_wg&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=chtwfn75ccfa70nbrmb3e0xg6" alt="Spotify recently played"  />
   </a>
 </div>
 
