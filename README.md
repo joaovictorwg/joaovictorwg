@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Coding since 2022<br>🧑‍🎓Computer Science Student<br>🧑‍💻 I'm currently working as a full stack trainee at Vetta Digital</p>
+<p align="left">✨ Coding since 2022<br>🧑‍🎓Computer Science Student<br>🧑‍💻 I'm currently working as a full stack intern at Vetta Digital</p>
 
 ###
 
